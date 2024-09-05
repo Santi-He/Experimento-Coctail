@@ -20,11 +20,11 @@ Esta configuración permitió que, aunque las voces se superpusieran ligeramente
      
 9. Luego graficamos por separado cada señal para apreciarlas mejor.
 
-            ![image](https://github.com/user-attachments/assets/eb565b30-482f-49d1-9799-543a894a6ac9)
+![image](https://github.com/user-attachments/assets/eb565b30-482f-49d1-9799-543a894a6ac9)
 
-            ![image](https://github.com/user-attachments/assets/5ab54653-1c6f-409d-b53c-b09e40db00fe)
+![image](https://github.com/user-attachments/assets/5ab54653-1c6f-409d-b53c-b09e40db00fe)
 
-            ![image](https://github.com/user-attachments/assets/bcf707f1-0a50-43ba-93b9-d7208099f94a)
+![image](https://github.com/user-attachments/assets/bcf707f1-0a50-43ba-93b9-d7208099f94a)
 
 10. Nuestra persona de interés fue la numero 2 por ende le agregamos un filtro y la graficamos La señal filtrada presenta una reducción significativa en la amplitud. Ahora oscila entre aproximadamente -0.35 y 0.35 unidades, lo cual indica que se han eliminado muchas de las componentes de frecuencia que existían en la señal sin filtrar, pero se mantiene el numero de muestras , lo que significa que el filtro fue efectivo en eliminar las otra voces y el ruido
             ![image](https://github.com/user-attachments/assets/55a6f173-97e9-4899-bf4c-74bd27b96298)
